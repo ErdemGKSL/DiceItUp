@@ -1,0 +1,4 @@
+name: DiceItUp
+version: '1.0-SNAPSHOT'
+main: tr.erdemdev.diceItUp.DiceItUp
+api-version: '1.20'
